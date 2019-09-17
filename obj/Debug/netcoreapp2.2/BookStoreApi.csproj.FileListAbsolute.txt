@@ -1,0 +1,6 @@
+/home/devdevil/temp/TodoApi/BookStoreApi/obj/Debug/netcoreapp2.2/BookStoreApi.csprojAssemblyReference.cache
+/home/devdevil/temp/TodoApi/BookStoreApi/obj/Debug/netcoreapp2.2/BookStoreApi.csproj.CoreCompileInputs.cache
+/home/devdevil/temp/TodoApi/BookStoreApi/obj/Debug/netcoreapp2.2/BookStoreApi.RazorAssemblyInfo.cache
+/home/devdevil/temp/TodoApi/BookStoreApi/obj/Debug/netcoreapp2.2/BookStoreApi.RazorAssemblyInfo.cs
+/home/devdevil/temp/TodoApi/BookStoreApi/obj/Debug/netcoreapp2.2/BookStoreApi.AssemblyInfoInputs.cache
+/home/devdevil/temp/TodoApi/BookStoreApi/obj/Debug/netcoreapp2.2/BookStoreApi.AssemblyInfo.cs
