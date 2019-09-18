@@ -11,10 +11,17 @@ namespace BookStoreApi.Business
     {
         long contMockId = 100;
         List<Book> booksMock = new List<Book>();
+        List<Comment> commentsMock = new List<Comment>();
         public long addBook(Book book)
         {
+            book.id = contMockId;
             booksMock.Add(book);
             return contMockId++;
+        }
+
+        public void addComment(Comment comment)
+        {
+            commentsMock.Add(comment);
         }
     }
 

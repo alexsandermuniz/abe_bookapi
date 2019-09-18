@@ -1,6 +1,7 @@
 using System;
 
 public class Book{
+    public long id {get;set;}
     public string name {get;set;}
     public string publisher {get;set;}
     public DateTime date {get;set;}
