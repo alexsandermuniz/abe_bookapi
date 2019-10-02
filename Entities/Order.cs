@@ -3,14 +3,14 @@ using System.Collections.Generic;
 
 public class Order{
     public long id;
-    public Cart cart;
+    public long cartId;
     public decimal totalValue;
     public decimal totalDisccount;
     public DateTime time;
+    public string store;
+    public string userName;
+    public string location;
 
-    public Order(Cart cart)
-    {
-        this.cart = cart;
-    }
+    public Order(){}
 
 }

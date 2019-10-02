@@ -26,7 +26,7 @@ namespace BookStoreApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Info { Title = "Book api", Version = "v1" });
@@ -47,8 +47,8 @@ namespace BookStoreApi
                 app.UseHsts();
             }
             app.UsePathBase(new Microsoft.AspNetCore.Http.PathString("/booksapi/v1"));
-            app.UseHttpsRedirection();
-            app.UseMvc();
+            //app.UseHttpsRedirection();
+            app.UseMvc();            
 
 
             app.UseSwagger();

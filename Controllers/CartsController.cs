@@ -7,7 +7,7 @@ using BookStoreApi.Business;
 
 namespace BookStoreApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class CartsController : ControllerBase
     {

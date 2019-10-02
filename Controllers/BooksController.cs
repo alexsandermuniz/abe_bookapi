@@ -7,7 +7,7 @@ using BookStoreApi.Business;
 
 namespace BookStoreApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class BooksController : ControllerBase
     {
@@ -16,6 +16,7 @@ namespace BookStoreApi.Controllers
         [HttpPost]
         public ActionResult<long>  Post([FromBody] Book book)
         {
+            
            return _BookBusiness.addBook(book);         
         }
 

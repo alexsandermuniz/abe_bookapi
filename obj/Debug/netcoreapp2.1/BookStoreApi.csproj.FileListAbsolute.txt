@@ -1,0 +1,28 @@
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.csprojAssemblyReference.cache
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorAssemblyInfo.cache
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorAssemblyInfo.cs
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.AssemblyInfo.cs
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.deps.json
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.runtimeconfig.json
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.runtimeconfig.dev.json
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.dll
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.pdb
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.dll
+C:\Users\1239976\Desktop\aula\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.pdb
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.deps.json
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.runtimeconfig.json
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.runtimeconfig.dev.json
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.dll
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\bin\Debug\netcoreapp2.1\BookStoreApi.pdb
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.csprojAssemblyReference.cache
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorAssemblyInfo.cache
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorAssemblyInfo.cs
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.AssemblyInfo.cs
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.dll
+C:\Users\fpri020\Desktop\alexsander\zPessoal\0Aula abe\booksapi\abe_bookapi\obj\Debug\netcoreapp2.1\BookStoreApi.pdb
