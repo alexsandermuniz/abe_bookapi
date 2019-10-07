@@ -9,7 +9,7 @@ namespace BookStoreApi
 {
     public class CallApi
     {
-        public static void GetRequest(string URL)
+        public static string GetRequest(string URL)
         {
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(URL);
             request.Method = "GET";
@@ -23,12 +23,14 @@ namespace BookStoreApi
                 string response = responseReader.ReadToEnd();
                 Console.Out.WriteLine(response);
                 responseReader.Close();
+                return response;
             }
             catch (Exception e)
             {
                 Console.Out.WriteLine("-----------------");
                 Console.Out.WriteLine(e.Message);
             }
+            return "ERROR";
 
         }
         public static long PostRequest(string DATA,string URL)
@@ -57,7 +59,7 @@ namespace BookStoreApi
                 Console.Out.WriteLine("-----------------");
                 Console.Out.WriteLine(e.Message);
             }
-            return 0;
+            return -1;
 
         }
     }
